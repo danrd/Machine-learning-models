@@ -479,3 +479,75 @@ Learning/Deep learning AI/Convolution models/Week1/Convolution_model_Application
 Learning/Deep learning AI/Convolution models/Week1/cnn_utils.py
 Learning/Deep learning AI/Convolution models/Week1/.ipynb_checkpoints/Convolution_model_Application_v1a-checkpoint.ipynb
 Learning/Нейронные сети и обработка текста/transformers/
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Working with JAX numpy and calculating perplexity.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Vanishing Gradients and Exploding Gradients in RNNs.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Vanilla RNNs, GRUs and the scan function.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/trax_intro.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Sentiment with Deep Neural Networks.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Question duplicates.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Named Entity Recognition (NER).ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Modified Triplet Loss.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Hidden State Activation.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Evaluate a Siamese model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Deep N-grams.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/data_generators.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Creating a Siamese model using Trax.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/Creating a GRU model using Trax.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Sequence Models/classes.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings Ungraded Practice Notebook.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings Training the CBOW model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings Intro to CBOW model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings Hands On.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Word Embeddings First Steps Data Preparation.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Vocabulary Creation.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Parts-of-Speech Tagging - Working with tags and Numpy.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Parts-of-Speech Tagging - First Steps.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Parts-of-Speech Tagging (POS).ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Out of vocabulary words.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/N-grams Corpus preprocessing.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Language Models Auto-Complete.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Candidates from String Edits.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Building the language model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Probabilistic Models/Autocorrect.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/The Transformer Decoder.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/The Three Ways of Attention and Dot Product Attention.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/T5 SQuAD Model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Stack_Semantics.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/SentencePiece and BPE.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Scaled Dot-Product Attention.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Reformer Efficient Attention.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Question_Answering_with_BERT_and_HuggingFace_Pytorch_tydiqa2.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Question_Answering_with_BERT_and_HuggingFace_Pytorch_tydiqa.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Putting the Re in Reformer.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Calculating the Bilingual Evaluation Understudy (BLEU) score.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/BERT_Loss_Model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/BERT Loss Model.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Basic Attention Operation.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Assignment 4 Chatbot.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Assignment 3 Question Answering.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Assignment 2 Transformer Summarizer.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/Assignment 1 Neural Machine Translation.ipynb
+Learning/NLP. Deep learning AI/Natural Language Processing with Attention Models/.ipynb_checkpoints/BERT_Loss_Model-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Visualizing Naive Bayes.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Vector manipulation in Python.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/utils.py
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Preprocessing.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Naive Bayes.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Manipulating word embeddings.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Logistic Regression.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Linear algebra in Python with NumPy.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Hello Vectors.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Hash functions and multiplanes.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Building and Visualizing word frequencies.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/Another explanation about PCA.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Visualizing Naive Bayes-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Vector manipulation in Python-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Preprocessing-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Naive Bayes-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Manipulating word embeddings-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Linear algebra in Python with NumPy-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Hello Vectors-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Hash functions and multiplanes-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Building and Visualizing word frequencies-checkpoint.ipynb
+Learning/NLP. Deep learning AI/Classification and Vector Spaces/.ipynb_checkpoints/Another explanation about PCA-checkpoint.ipynb
