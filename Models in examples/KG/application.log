@@ -1,0 +1,8 @@
+INFO - NumExpr defaulting to 4 threads.
+WARNING - file:///C:/Users/El%20Tuko/Documents/wd/Machine%20learning%20models/Models%20in%20examples/data\GravityFalls.owl does not look like a valid URI, trying to serialize this will break.
+WARNING - using automatically assigned random_state=3747242377
+INFO - done splitting triples to groups of sizes [501, 997]
+INFO - done splitting triples to groups of sizes [501, 997]
+INFO - done splitting triples to groups of sizes [501, 997]
+INFO - done splitting triples to groups of sizes [501, 997]
+INFO - done splitting triples to groups of sizes [501, 997]
